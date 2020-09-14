@@ -44,3 +44,43 @@ body {
   text-decoration: underline;
 }
 /* ===== / header ===== */
+
+/* ===== main ===== */
+.page-title {
+  margin: 15px 0;
+  padding: 10px 0;
+  font-size: 32px;
+  line-height: 1.25;
+}
+
+.section-title {
+  margin: 15px 0;
+  padding: 10px 0;
+  font-size: 24px;
+  line-height: 1.25;
+}
+/* ===== / main ===== */
+
+/* ===== contact info ===== */
+.contact-info-box {
+  display: flex;
+  align-items: center;
+}
+
+.contact-info-box .user-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.contact-info-box .contact-info {
+  flex-grow: 1;
+}
+
+.contact-info-box .contact-ways-item {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 5px 0;
+}
+/* ===== / contact info ===== */
