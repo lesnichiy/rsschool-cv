@@ -23,3 +23,6 @@ React, Angular, etc. | Heard about it
 
 ## Education
 **Omsk State Technical University** *2001-2006*
+
+## English Level
+**A2** *Pre-Intermediate*
