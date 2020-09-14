@@ -14,3 +14,33 @@ body {
   line-height: 1.5;
   color: #24292e;
 }
+
+/* ===== common ===== */
+.wrapper {
+  width: 1024px;
+  margin: 0 auto 30px;
+}
+
+.grey-border-bottom {
+  border-bottom: 1px solid #eaecef;
+}
+/* ===== / common ===== */
+
+/* ===== header ===== */
+.page-header {
+  padding: 30px 0 10px;
+  margin-bottom: 15px;
+}
+
+.page-header a {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 1.25;
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.page-header a:hover {
+  text-decoration: underline;
+}
+/* ===== / header ===== */
