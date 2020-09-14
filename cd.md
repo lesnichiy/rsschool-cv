@@ -20,3 +20,6 @@ Git | Basic
 BEM | Basic
 Bootstrap | Basic
 React, Angular, etc. | Heard about it
+
+## Education
+**Omsk State Technical University** *2001-2006*
