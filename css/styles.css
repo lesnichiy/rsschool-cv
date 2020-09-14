@@ -84,3 +84,21 @@ body {
   margin: 5px 0;
 }
 /* ===== / contact info ===== */
+
+/* ===== skills ===== */
+.skills .skills-table {
+  border: 1px solid #c6cbd1;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+.skills .skills-table th,
+.skills .skills-table td {
+  border: 1px solid #c6cbd1;
+  padding: 6px 13px;
+}
+
+.skills .skills-table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+/* ===== / skills ===== */
